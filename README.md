@@ -24,11 +24,6 @@ The project implements chess gameplay including piece movement, turn handling, a
 - `ui.cpp / ui.h` → User interface
 - `utils.cpp / utils.h` → Utility/helper functions
 
-## How to Run
-1. Open the project in Visual Studio
-2. Open `CHESSGAME.vcxproj`
-3. Build and Run the project
-
 ## Group Members
 - Taha Hayyat
 - Talha Bin Zaman
